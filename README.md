@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - PHP
 - HTML/CSS/JavaScript
 
-![java](https://user-images.githubusercontent.com/88817315/148907708-b3aabf58-e23c-4495-a5cb-7e2b27a20278.jpg)
-![mysql](https://user-images.githubusercontent.com/88817315/148907724-d32cf70c-0fad-46d0-a899-f9ae1ed00eaa.png)
-![PHP-logo svg](https://user-images.githubusercontent.com/88817315/148907731-0e0a49e0-76c7-4604-b85b-f9f22bc19b6d.png)
-![web](https://user-images.githubusercontent.com/88817315/148907741-33e6029d-b348-438a-927c-d84768416f63.png)
+
