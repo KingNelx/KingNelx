@@ -23,4 +23,6 @@ My name is Jonel P Tapia, 4th yr College student from Catanduanes State Universi
 <img src="PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNelx&theme=tokyonight)
+        <div>
