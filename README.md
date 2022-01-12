@@ -24,7 +24,7 @@ My name is Jonel P Tapia, 4th yr College student from Catanduanes State Universi
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KingNelx.KingNelx)
- 
+ [![Github](https://img.shields.io/github/followers/KingNelx?label=Follow&style=social)](https://github.com/KingNelx)
 
 
 
