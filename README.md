@@ -15,6 +15,7 @@ My name is Jonel P Tapia, 4th yr College student from Catanduanes State Universi
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="intelliJ.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
+        <img src="mysql.jpg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="java.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="mysql.png" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
