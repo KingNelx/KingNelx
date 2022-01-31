@@ -24,7 +24,7 @@ My name is Jonel P Tapia, 4th yr College student from Catanduanes State Universi
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/vue-js.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpositivethinking.tech%2Finsights%2Fvue-js-as-an-enterprise-solution%2F&psig=AOvVaw2zM7y-ZmU7IYKFe6kElczx&ust=1643719548758000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPi54NCC3PUCFQAAAAAdAAAAABAD" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
