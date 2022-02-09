@@ -12,7 +12,8 @@ My name is Jonel P Tapia, 4th yr College student from Catanduanes State Universi
 - PHP
 - HTML/CSS/JavaScript
 - Vue JS
-- 
+- React JS
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="intelliJ.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
