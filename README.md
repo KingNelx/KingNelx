@@ -6,7 +6,7 @@ KingNelx. Full stack Developer at Catanduanes Provincial Health Office.
 -Pogi
 
 
-Tech Stack
+Tech Stack <br>
 - Java Spring Boot
 - React Js
 - Bootstrap
