@@ -6,6 +6,7 @@ KingNelx. Full stack Developer at Catanduanes Provincial Health Office. <br>
 -Pogi
 </div>
 
+ <div align="center">
 Tech Stack <br>
 - Java Spring Boot
 - React Js
@@ -13,7 +14,7 @@ Tech Stack <br>
 - Mysql
 - Tailwind
 - C++
-
+</div>
 <p align="center>
 ## 🧰 Languages and Tools:
 
