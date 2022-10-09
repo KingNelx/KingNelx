@@ -1,7 +1,7 @@
 
 ![av08kC](https://user-images.githubusercontent.com/88817315/148907531-06f06c46-62ff-436a-bb0a-73cbec4b86ea.jpg)
 
- <div class="text-center">
+ <div align="center">
 KingNelx. Full stack Developer at Catanduanes Provincial Health Office. <br>
 -Pogi
 </div>
