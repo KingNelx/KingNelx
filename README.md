@@ -14,6 +14,8 @@ Tech Stack <br>
  Tailwind
  C++
 
+ ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+ 
 ## 🧰 Languages and Tools:
 
 <img src="intelliJ.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
