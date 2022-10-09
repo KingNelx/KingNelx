@@ -14,7 +14,7 @@ Tech Stack <br>
 - Tailwind
 - C++
 
-
+<p align="center>
 ## 🧰 Languages and Tools:
 
 <img src="intelliJ.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
@@ -27,7 +27,7 @@ Tech Stack <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 
-
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNelx&theme=tokyonight)
