@@ -7,12 +7,12 @@ KingNelx. Full stack Developer at Catanduanes Provincial Health Office. <br>
 
 
 Tech Stack <br>
-- Java Spring Boot
-- React Js
-- Bootstrap
-- Mysql
-- Tailwind
-- C++
+ Java Spring Boot
+ React Js
+ Bootstrap
+ Mysql
+ Tailwind
+ C++
 
 ## 🧰 Languages and Tools:
 
