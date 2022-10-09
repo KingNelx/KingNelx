@@ -2,21 +2,17 @@
 ![av08kC](https://user-images.githubusercontent.com/88817315/148907531-06f06c46-62ff-436a-bb0a-73cbec4b86ea.jpg)
 
 
-Hi my name is Jonel Tapia. I am new in this field and I've been trying to explore some things here, and I found it quite interesting so that's why I go learn some stuff that I'm interested in. Web development is fun though but I enjoy Java development much more than it. I am very passionate about what I'm doing and i dont settle less in learning, My goal is to become the better version of myself and one day be a Software Developer.
+KingNelx. Full stack Developer at Catanduanes Provincial Health Office.
+-Pogi
 
 
-- I'm currently learning ..
-- Java
-- Php
-- Mysql
-- HTML
-- CSS
-- JavaScript
-
-- Next to learn ..
+Tech Stack
+- Java Spring Boot
 - React Js
-- Laravel
-- SpringBoot
+- Bootstrap
+- Mysql
+- Tailwind
+- C++
 
 
 ## 🧰 Languages and Tools:
