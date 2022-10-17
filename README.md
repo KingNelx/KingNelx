@@ -1,7 +1,7 @@
 <!-- ![310927962_615420410254582_7282237423476965990_n](https://user-images.githubusercontent.com/88817315/196302942-2c4da306-67f9-4937-bfd6-305b8058d834.jpg) -->
-
-<img src="https://user-images.githubusercontent.com/88817315/196302942-2c4da306-67f9-4937-bfd6-305b8058d834.jpg" height="500" > 
-
+<div align="center>
+<img src="https://user-images.githubusercontent.com/88817315/196302942-2c4da306-67f9-4937-bfd6-305b8058d834.jpg" height="400" > 
+</div>
  <div align="center">
 KingNelx. Full stack Developer at Catanduanes Provincial Health Office. <br>
 -Pogi
