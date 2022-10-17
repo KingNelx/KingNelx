@@ -15,7 +15,7 @@ Tech Stack <br>
  C++
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&color=61DAFB)
+ ![](https://img.shields.io/badge/Spring-Vue-informational?style=flat&logo=react&color=61DAFB)
  
 ## 🧰 Languages and Tools:
 
