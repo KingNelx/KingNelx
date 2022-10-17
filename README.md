@@ -15,8 +15,7 @@ Tech Stack <br>
  C++
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
- ![](https://img.shields.io/badge/Spring-Vue-informational?style=flat&logo=react&color=61DAFB)
- 
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 🧰 Languages and Tools:
 
 <img src="intelliJ.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
