@@ -42,7 +42,7 @@ Tech Stack <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNelx&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNelx&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNelx&layout=compact)](https://github.com/KingNelx/github-readme-stats)
 
 </div>
-     
+    
