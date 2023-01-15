@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/88817315/196302942-2c4da306-67f9-4937-bfd6-305b8058d834.jpg" height="200" > 
 </div>
  <div align="center">
-KingNelx. Full stack Developer at Catanduanes Provincial Health Office. <br>
+KingNelx. Working at Catanduanes Provincial Health Office. <br>
 -Pogi
 
 
