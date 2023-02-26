@@ -19,6 +19,18 @@
 </div>
 <br>
 
+| Tools |
+| --- |
+| <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> Visual Studio Code |
+| <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> IntelliJ |
+| <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/> Eclipse |
+| <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> PyCharm |
+| <img src="https://img.icons8.com/dusk/64/000000/mysql.png"/> MySQL Workbench |
+| <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman |
+| <img src="https://img.icons8.com/color/48/000000/lucidchart.png"/> Lucidchart |
+
+<br>
+
 | GitHub Stats | Contributions | 
 | --- | --- | 
 | <img src="https://github-readme-stats.vercel.app/api?username=KingNelx&show_icons=true&theme=radical" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingNelx" width="600" /> | 
