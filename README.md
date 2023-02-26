@@ -19,6 +19,7 @@
 </div>
 <br>
 
+<h2 align="center"> My Current Tools </h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
