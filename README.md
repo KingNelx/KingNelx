@@ -19,16 +19,7 @@
 </div>
 <br>
 
-<h2 align="center"> My Current Tools </h2>
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
-  <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-  <img src="https://imgs.search.brave.com/gcz9th06756xDGcaGdC2ErDWoznaXFmrRrrlrRQK-1Q/rs:fit:490:284:1/g:ce/aHR0cDovL2NkbjQu/cXVpbnRldHNvbHV0/aW9ucy5jb20vaW1n/L3NlcnZpY2VzL3Nv/bHV0aW9ucy9teXNx/bF93b3JrYmVuY2hf/c2VydmljZV9wcm92/aWRlcl9pbmRpYS5q/cGc"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
-  <img src="https://img.icons8.com/color/48/000000/lucidchart.png" alt="Lucidchart"/>
-</div>
+
 
 
 
