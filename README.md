@@ -24,5 +24,6 @@
 | <div align="center">Top Languages</div> | 
 | --- |
 | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingNelx&langs_count=7&bg_color=45,e96443,904e95&title_color=fff&text_color=fff" width="400" /></div> | 
+ 
 
 
