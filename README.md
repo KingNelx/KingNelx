@@ -22,4 +22,7 @@
   <img src="https://img.icons8.com/color/48/000000/django.png" style="margin:10px;"/>
 </div>
 
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+</div>
