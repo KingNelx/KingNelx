@@ -10,8 +10,6 @@
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" style="margin:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="margin:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="margin:10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" style="margin:10px;"/>
-
 </div>
 
 | GitHub Stats | Contributions | Top Languages | 
