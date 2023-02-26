@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
   <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="Eclipse"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-  <img src="https://img.icons8.com/dusk/64/000000/mysql-logo.png" alt="MySQL Workbench"/>
+  <img src="[https://img.icons8.com/dusk/64/000000/mysql-logo.png](https://imgs.search.brave.com/veTj-Uw0fCUIOUpjTRBtrmK8wfyQSaDAZfylSMPfR7A/rs:fit:819:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/dzlhWnpNOUd1cDNS/b0tHY0dTV1JRSGFF/UyZwaWQ9QXBp)" alt="MySQL Workbench"/>
   <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
   <img src="https://img.icons8.com/color/48/000000/lucidchart.png" alt="Lucidchart"/>
 </div>
