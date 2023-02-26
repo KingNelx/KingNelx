@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/KingNelx.png" width="150" height="150" />
-  <h3>KingNelx</h3>
-</div>
-
 <h2 align="center"> My Current Skillset </h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin:10px;"/>
