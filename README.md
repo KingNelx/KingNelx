@@ -20,14 +20,16 @@
 <br>
 
 | Tools |
-| --- |
-| <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> Visual Studio Code |
-| <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> IntelliJ |
-| <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/> Eclipse |
-| <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> PyCharm |
-| <img src="https://img.icons8.com/dusk/64/000000/mysql.png"/> MySQL Workbench |
-| <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman |
-| <img src="https://img.icons8.com/color/48/000000/lucidchart.png"/> Lucidchart |
+<div style="display: flex; justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
+  <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+  <img src="https://img.icons8.com/dusk/64/000000/mysql.png" alt="MySQL Workbench"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/lucidchart.png" alt="Lucidchart"/>
+</div>
+
 
 <br>
 
