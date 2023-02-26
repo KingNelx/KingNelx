@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="me.png"/>
+  <img src="me.png" width="600"/>
   </div>
 <div align="center">
   I believe that my strong work ethic, unwavering commitment to quality, and passion for my craft make me an invaluable asset to any team. With a demonstrated ability to consistently exceed expectations and a determination to never settle for less than my best, I am confident that I can make a meaningful contribution to your organization and help drive success."
