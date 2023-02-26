@@ -19,7 +19,6 @@
 </div>
 <br>
 
-| Tools |
 <div style="display: flex; justify-content: center;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ"/>
@@ -29,6 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
   <img src="https://img.icons8.com/color/48/000000/lucidchart.png" alt="Lucidchart"/>
 </div>
+
 
 
 <br>
