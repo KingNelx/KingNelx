@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" style="margin:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="margin:10px;"/>
-<img src="https://cdn.svgporn.com/logos/postman.svg" style="margin:10px;"/>
+<img src="[https://cdn.svgporn.com/logos/postman.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354202%2Fpostman-icon&psig=AOvVaw0jkeRhTvyb9UNXgT9IoFLI&ust=1692495753267000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjNypXM54ADFQAAAAAdAAAAABAE)" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png" style="margin:10px;"/>
 </div>
