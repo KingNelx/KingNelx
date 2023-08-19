@@ -25,7 +25,7 @@
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/postman-api.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" style="margin:10px;"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-workbench.png" style="margin:10px;"/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="margin:10px;"/>
 
 </div>
