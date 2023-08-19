@@ -26,7 +26,6 @@
 <img src="https://img.icons8.com/color/48/000000/postman-api.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png" style="margin:10px;"/>
-
 </div>
 <br>
 
