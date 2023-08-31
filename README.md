@@ -28,7 +28,7 @@
 </div>
 <br>
 
-| GitHub Stats | 
+| GitHub Stats | Contributions | 
 | --- | --- | 
 | <img src="https://github-readme-stats.vercel.app/api?username=KingNelx&show_icons=true&theme=radical" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingNelx" width="600" /> | 
 
