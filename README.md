@@ -1,6 +1,7 @@
 <div align="center">
-  <p>  - KingNelx  </p>
-  I believe that my strong work ethic, unwavering commitment to quality, and passion for my craft make me an invaluable asset to any team. With a demonstrated ability to consistently exceed expectations and a determination to never settle for less than my best, I am confident that I can make a meaningful contribution to your organization and help drive success."
+ Aspiring Software Developer with full-stack skills. Knowledgeable in building both front-end and back end
+applications using ReactJS and Spring Boot. Eager to contribute to dynamic projects and learn from
+experienced teams. Committed to continuous growth in the field of software development.
   </div>
 
 <h2 align="center"> My Current Skillset </h2>
