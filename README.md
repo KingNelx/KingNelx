@@ -1,7 +1,7 @@
 <div align="center">
  Aspiring Software Developer with full-stack skills. Knowledgeable in building both front-end and back end
 applications using ReactJS and Spring Boot. Eager to contribute to dynamic projects and learn from
-experienced teams. Committed to continuous growth in the field of software development.
+experienced teams. Committed to continuous growth in the field of software development..
   </div>
 
 <h2 align="center"> My Current Skillset </h2>
