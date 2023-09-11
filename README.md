@@ -1,5 +1,5 @@
 <div align="center">
-Aspiring Software Developer with Full-Stack skills. Knowledgeable in building both front-end and back end
+Full Stack Developer knowledgeable in building both front-end and back end
 applications using ReactJS and Spring Boot. Eager to contribute to dynamic projects and learn from
 experienced teams. Committed to continuous growth in the field of software development..
   </div>
