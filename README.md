@@ -55,37 +55,6 @@
 ## Use To Code
 ### Frontend & Backend
 
-<div align="center" style="background-color: #e0e0e0; padding: 10px; border: 1px solid #cccccc;">
-
-<table style="border-collapse: collapse;">
-  <tr style="font-weight: bold; background-color: #cccccc;">
-    <th>Frontend</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></td>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></td>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"></td>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="React Bootstrap"></td>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 5px;"></td> <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"></td>
-  </tr>
-</table>
-
-</div>
-
-
 ### Databases & Development Tools
 
 <div align="center" style="background-color: #e0e0e0; padding: 10px; border: 1px solid #cccccc;">
@@ -100,7 +69,13 @@
     <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ IDEA"></td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=
+    <td style="text-align: center; padding: 5px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+    <td style="text-align: center; padding: 5px;"></td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
