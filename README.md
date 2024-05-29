@@ -15,7 +15,7 @@
   <img src="https://img.icons8.com/color/96/000000/python--v1.png" style="margin:10px;"/>
   <img src="https://img.icons8.com/color/96/000000/django.png" style="margin:10px;"/>
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" style="margin:10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" style="margin:10px;"/>
+  <img src="[https://img.icons8.com/color/96/000000/mysql-logo.png](https://www.google.com/imgres?q=laravel%20icon&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Flaravel-icon-1990x2048-xawylrh0.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F27594%2Flaravel&docid=4WL6kTOSKZsA-M&tbnid=JS0zDjrLtxGa-M&vet=12ahUKEwiaqrO8h7KGAxVSTmwGHVTWAqcQM3oECBMQAA..i&w=1990&h=2048&hcb=2&ved=2ahUKEwiaqrO8h7KGAxVSTmwGHVTWAqcQM3oECBMQAA)" style="margin:10px;"/>
 </div>
 <br>
 <h3 align="center">My Current Tools</h3>
