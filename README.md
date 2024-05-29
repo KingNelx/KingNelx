@@ -24,7 +24,7 @@ experienced teams. Committed to continuous growth in the field of software devel
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="margin:10px;"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png" style="margin:10px;"/>
+<img src="https://img.icons8.com/color/48/000000/laravel.png" style="margin:10px;"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png" style="margin:10px;"/>
 </div>
 <br>
