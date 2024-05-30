@@ -51,12 +51,12 @@
  # About me
  
 <p>
- <img align="right" width="350" src="akazagif.gif" alt="Coding gif" />
+  <img align="right" width="350" src="akazagif.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
-
+  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+  ❤️ &emsp; Love to writing code and learning new features <br/><br/>
+  🎮 &emsp; Like to play Dota 2 <br/><br/>
+  📚 &emsp; Enjoy reading books <br/><br/>
 </p>
 
 <br/>
