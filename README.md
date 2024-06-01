@@ -4,11 +4,10 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=KingNelx&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">KingNelx</a></b>
+                <b><a target="_blank" href="https://king-nelx-dev.vercel.app/index.html">KingNelx</a></b>
         </samp>
 </h3>
 
