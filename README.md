@@ -23,9 +23,6 @@
   </samp>
 </p>
 
-
-<br />
-
  
  # About me
  
