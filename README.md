@@ -30,7 +30,7 @@
   
   ✌️  &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features <br/><br/>
-  🎮 &emsp; Like to play Dota 2 <br/><br/>
+  🎮 &emsp; Like to play Dota 2 and Valorant<br/><br/>
   📚 &emsp; Enjoy reading books <br/><br/>
 </p>
 
