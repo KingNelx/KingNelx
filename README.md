@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://king-nelx-dev.vercel.app/index.html"> KingNelx </a></b>
+                <b><a target="_blank" href="https://king-nelx-dev.vercel.app/index.html">KingNelx</a></b>
         </samp>
 </h3>
 
@@ -16,7 +16,7 @@
   <samp>
     <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/jonel-tapia-894907247/?originalSubdomain=ph)">「 Google Me 」</a>
     <br>
-    「 Full Stack Developer from <b>Philippines</b> 」
+    「 Full Stack Developer from <b> Philippines </b> 」
     <br>
     <br>
   </samp>
