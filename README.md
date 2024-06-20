@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://king-nelx-dev.vercel.app/index.html"> KingNelx </a></b>
+                <b><a target="_blank" href="https://king-nelx-dev.vercel.app/index.html">KingNelx</a></b>
         </samp>
 </h3>
 
