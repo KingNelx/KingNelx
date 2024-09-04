@@ -14,7 +14,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/jonel-tapia-894907247/?originalSubdomain=ph)">「 Google Me 」</a>
+    <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/jonel-tapia-894907247/?originalSubdomain=ph)">「 Google Me ! 」</a>
     <br>
     「 Full Stack Developer from <b> Philippines </b> 」
     <br>
