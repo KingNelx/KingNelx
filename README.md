@@ -21,24 +21,6 @@
     <br>
   </samp>
 </p>
-
- 
- # About me
- 
-<p>
-  <img align="right" width="350" src="akazagif.gif" alt="Coding gif" />
-  
-  ✌️  &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love to writing code and learning new features <br/><br/>
-  🎮 &emsp; Like to play Dota 2 and Valorant<br/><br/>
-  📚 &emsp; Enjoy reading manga<br/><br/>
-</p>
-
-<br/>
-<br/>
-<br/>
-
-
 <p align="center">
   <a href="https://github.com/KingNelx">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KingNelx&theme=radical" alt="KingNelx's GitHub Contribution"/>
