@@ -3,7 +3,7 @@ Philippines.
 
 
 # 💫 About Me:
-🔭 I'm Currently working as an Information Analyst II<br>👯 I’m looking to collaborate on any open source projects<br>🌱 I'm Currently learning Python and Ruby
+🔭 I'm Currently working as a Full Stack Developer II<br>👯 I’m looking to collaborate on any open source projects<br>🌱 I'm Currently learning Python and Ruby
 
 
 # 💻 Tech Stack:
