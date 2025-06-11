@@ -1,4 +1,4 @@
-Philippines.
+I'm a passionate developer who values clean code, meaningful projects, and impactful contributions to the tech community. Currently ranked #51 in the Philippines on GitHub, I'm constantly building and learning whether it's backend, frontend, or full-stack, I turn ideas into scalable, real-world solutions.
 [![committers.top badge](https://user-badge.committers.top/philippines_private/KingNelx.svg)](https://user-badge.committers.top/philippines_private/KingNelx)
 
 
