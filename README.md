@@ -3,7 +3,7 @@ I'm a passionate developer who values clean code, meaningful projects, and impac
 
 
 # 💫 About Me:
-🔭 I'm Currently working as a Full Stack Developer Developer<br>👯 I’m looking to collaborate on any open source projects<br>🌱 I'm Currently learning Python and Ruby
+🔭 I'm Currently working as a Full Stack Developer<br>👯 I’m looking to collaborate on any open source projects<br>🌱 I'm Currently learning Python and Ruby
 
 
 # 💻 Tech Stack:
